@@ -3,8 +3,13 @@
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 
+<<<<<<< HEAD
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
 url: "https://username.github.io"
+=======
+# If you are building a simple GitHub user page (http://username.github.io) then use these settings:
+url: "http://christophevx.github.io"
+>>>>>>> 331aec2e1f5c5bf37bc3724e59bb160bad0ce3da
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -64,6 +69,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
+<<<<<<< HEAD
   name: Some Person
 
 # Select your active Social Network Links.
@@ -89,6 +95,41 @@ social-network-links:
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
+=======
+  name: Christophe Vouaux
+  email: "christophevx@gmail.com"
+  facebook: yourname  # eg. daattali
+  github: yourname    # eg. daattali
+  twitter: yourname   # eg. daattali
+  reddit: yourname    # eg. daattali
+  google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
+  linkedin: yourname  # eg. daattali
+  xing: yourname      # eg. daattali
+  stackoverflow: yourlink  # eg. "3943160/daattali"
+  snapchat: yourname  # eg. daattali
+  instagram: yourname # eg. daattali
+  youtube: yourlink   # eg. user/daattali or channel/daattali
+  spotify: yourname   # eg. daattali
+  telephone: yourphone   # eg. +14159998888
+
+# Select which links to show in the footer
+footer-links-active:
+  rss: false
+  facebook: true
+  email: true
+  twitter: true
+  google-plus: false
+  github: true
+  reddit: false
+  linkedin: false
+  xing: false
+  stackoverflow: false
+  snapchat: false
+  instagram: false
+  youtube: false
+  spotify: false
+  telephone: false
+>>>>>>> 331aec2e1f5c5bf37bc3724e59bb160bad0ce3da
 
 # Select which share links to show in posts
 share-links-active:
