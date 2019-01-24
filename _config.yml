@@ -20,6 +20,8 @@ title: Développement de jeux multiplateformes
 description: Conseils et tests en tout genre !
 
 # --- Navigation bar options --- #
+title-font: "'Neuton', serif"
+body-font: "'Montserrat', sans-serif"
 
 # List of links in the navigation bar
 navbar-links:
